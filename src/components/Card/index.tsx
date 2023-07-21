@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './style.css'
 type Props = {
   name?: string
   designation?: string
@@ -11,11 +11,11 @@ const Card = ({ name = '', designation = '', src = 'https://www.w3schools.com/ho
       {src && <img src={src} alt='Avatar' style={{ width: '100%' }} />}
       <div className='container'>
         {name && (
-          <h4>
+          <h4 className='name'>
             <b>{name}</b>
           </h4>
         )}
-        {designation && <p>{designation}</p>}
+        {designation && <p className='designation'>{designation}</p>}
       </div>
     </div>
   )
