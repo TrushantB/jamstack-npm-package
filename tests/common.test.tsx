@@ -7,6 +7,6 @@ import { MyCounter } from '../src'
 
 describe('Common render', () => {
   it('renders without crashing', () => {
-    render(<MyCounter />)
+    render(<MyCounter value={10} />)
   })
 })
