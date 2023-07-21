@@ -54,5 +54,7 @@
     "ts-jest": "^28.0.4",
     "typescript": "^4.7.3"
   },
-  "dependencies": {}
+  "dependencies": {
+    "jamstack-npm-package": "^1.0.1"
+  }
 }

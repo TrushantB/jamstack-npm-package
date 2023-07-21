@@ -1,4 +1,4 @@
-# my-react-typescript-package
+# jamstack-npm-package
 
 [![NPM version][npm-image]][npm-url]
 [![Build][github-build]][github-build-url]
@@ -11,18 +11,18 @@ You can clone it and step by step create your own NPM package and publish it.
 
 It is simple React counter.
 
-[**Live Demo**](https://gapon2401.github.io/my-react-typescript-package/)
+[**Live Demo**](https://gapon2401.github.io/jamstack-npm-package/)
 
 ## Installation:
 
 ```bash
-npm install my-react-typescript-package --save-dev
+npm install jamstack-npm-package --save-dev
 ```
 
 or
 
 ```bash
-yarn add -D my-react-typescript-package
+yarn add -D jamstack-npm-package
 ```
 
 ## Usage :
@@ -32,7 +32,7 @@ Add `MyCounter` to your component:
 ```js
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { MyCounter } from 'my-react-typescript-package'
+import { MyCounter } from 'jamstack-npm-package'
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
 root.render(
@@ -51,10 +51,10 @@ root.render(
 
 ```
 
-[npm-url]: https://www.npmjs.com/package/my-react-typescript-package
-[npm-image]: https://img.shields.io/npm/v/my-react-typescript-package
-[github-license]: https://img.shields.io/github/license/gapon2401/my-react-typescript-package
-[github-license-url]: https://github.com/gapon2401/my-react-typescript-package/blob/master/LICENSE
-[github-build]: https://github.com/gapon2401/my-react-typescript-package/actions/workflows/publish.yml/badge.svg
-[github-build-url]: https://github.com/gapon2401/my-react-typescript-package/actions/workflows/publish.yml
-[npm-typescript]: https://img.shields.io/npm/types/my-react-typescript-package
+[npm-url]: https://www.npmjs.com/package/jamstack-npm-package
+[npm-image]: https://img.shields.io/npm/v/jamstack-npm-package
+[github-license]: https://img.shields.io/github/license/gapon2401/jamstack-npm-package
+[github-license-url]: https://github.com/gapon2401/jamstack-npm-package/blob/master/LICENSE
+[github-build]: https://github.com/gapon2401/jamstack-npm-package/actions/workflows/publish.yml/badge.svg
+[github-build-url]: https://github.com/gapon2401/jamstack-npm-package/actions/workflows/publish.yml
+[npm-typescript]: https://img.shields.io/npm/types/jamstack-npm-package

@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { MyCounter } from 'my-react-typescript-package'
+import { MyCounter } from 'jamstack-npm-package'
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
 root.render(
