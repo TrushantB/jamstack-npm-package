@@ -5,13 +5,13 @@
 ![npm-typescript]
 [![License][github-license]][github-license-url]
 
-This repo is the example of the article ["How to create and publish React Typescript npm package with demo and automated build"](https://medium.com/@igaponov/how-to-create-and-publish-react-typescript-npm-package-with-demo-and-automated-build-80c40ec28aca).
+This repo is the example of the article ["How to create and publish React Typescript npm package with demo and automated build"](https://medium.com/@iTrushant/how-to-create-and-publish-react-typescript-npm-package-with-demo-and-automated-build-80c40ec28aca).
 
 You can clone it and step by step create your own NPM package and publish it.
 
 It is simple React counter.
 
-[**Live Demo**](https://gapon2401.github.io/jamstack-npm-package/)
+[**Live Demo**](https://trushantb.github.io/jamstack-npm-package/)
 
 ## Installation:
 
@@ -53,8 +53,8 @@ root.render(
 
 [npm-url]: https://www.npmjs.com/package/jamstack-npm-package
 [npm-image]: https://img.shields.io/npm/v/jamstack-npm-package
-[github-license]: https://img.shields.io/github/license/gapon2401/jamstack-npm-package
-[github-license-url]: https://github.com/gapon2401/jamstack-npm-package/blob/master/LICENSE
-[github-build]: https://github.com/gapon2401/jamstack-npm-package/actions/workflows/publish.yml/badge.svg
-[github-build-url]: https://github.com/gapon2401/jamstack-npm-package/actions/workflows/publish.yml
+[github-license]: https://img.shields.io/github/license/trushantb/jamstack-npm-package
+[github-license-url]: https://github.com/trushantb/jamstack-npm-package/blob/master/LICENSE
+[github-build]: https://github.com/trushantb/jamstack-npm-package/actions/workflows/publish.yml/badge.svg
+[github-build-url]: https://github.com/trushantb/jamstack-npm-package/actions/workflows/publish.yml
 [npm-typescript]: https://img.shields.io/npm/types/jamstack-npm-package
